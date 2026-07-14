@@ -1,0 +1,12 @@
+[submodule "acquisition"]
+	path = acquisition
+	url = https://github.com/GeospatialCentroid/instrument_data_acquisition
+[submodule "api"]
+	path = api
+	url = https://github.com/GeospatialCentroid/instrument_data_api
+[submodule "watcher"]
+	path = watcher
+	url = https://github.com/GeospatialCentroid/instrument_data_watcher
+[submodule "spur_aq"]
+	path = spur_aq
+	url = https://github.com/GeospatialCentroid/spur_aq
